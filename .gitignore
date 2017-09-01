@@ -28,5 +28,6 @@ bower_components/
 nbproject
 Thumbs.db
 
-
 application/config.php
+application/docs/img
+application/docs/instructions
