@@ -31,3 +31,4 @@ Thumbs.db
 application/config.php
 application/docs/img
 application/docs/instructions
+composer.phar
