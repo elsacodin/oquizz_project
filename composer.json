@@ -1,0 +1,16 @@
+{
+    "name": "oclock/oquiz",
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "league/plates": "^3.3"
+    },
+    "autoload": {
+      "files": [
+        "application/config.php",
+        "application/Helper/ajax.php"
+      ],
+      "psr-4": {
+        "OQuiz\\":"application/"
+      }
+    }
+}
